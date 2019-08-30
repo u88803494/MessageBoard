@@ -411,5 +411,4 @@ security_check.php 增加轉址功能。如果發現 cookie 跟伺服器上資�
  - function userInterface 使用者的界面
  - function userComments 用戶的留言
 
-#### 因為寫一寫太複雜才想到應該要寫這個作為紀錄，所以並沒有全部紀錄下來" 
-"# MessageBoard" 
+#### 因為寫一寫太複雜才想到應該要寫這個作為紀錄，所以並沒有全部紀錄下來
