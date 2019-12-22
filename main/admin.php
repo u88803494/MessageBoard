@@ -41,7 +41,6 @@
 </nav>
 
 <div class="board">
-  <div class="notice">本站為練習用網站，因教學用途刻意忽略資安的實作，註冊時請勿使用任何真實的帳號或密碼</div>
   <?php
     // 使用者歡迎與操作界面
     userInterface($conn);

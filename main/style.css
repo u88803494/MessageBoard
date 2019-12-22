@@ -16,14 +16,6 @@ nav.navbar {
     margin: 0 10px;
 }
 
-div.notice {
-    font-size: 30px;
-    text-align: center;
-    padding: 10px 15%;
-    margin: 10px 0;
-    background: white;
-}
-
 div.member__notice {
     font-size: 20px;
     font-weight: bold;
@@ -47,7 +39,7 @@ textarea {
     width: 100%;
 }
 
-.original__board, .original__main, .original__sub-comment, .new, .notice, .member__notice, .welcome {
+.original__board, .original__main, .original__sub-comment, .new, .member__notice, .welcome {
     border: 1px solid #DDDFE2;
     padding: 10px;
     border-radius: 8px;
@@ -114,12 +106,5 @@ a ~ a {
     .nav-member {
         display: block;
         margin: 10px 0;
-    }
-}
-
-@media (max-width: 576px) {
-    div.notice {
-        font-size: 20px;
-        padding: 10px 20px;
     }
 }

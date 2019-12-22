@@ -41,7 +41,6 @@
 </nav>
 
 <div class="board container">
-  <div class="notice">本站為練習用網站，因教學用途刻意忽略資安的實作，註冊時請勿使用任何真實的帳號或密碼</div>
   <?php
     // 改完偵測登入值
     if($login === true) {
